@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <TextView
+        android:id="@+id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/app_name_cn"
+        android:textSize="22sp"
+        android:textColor="@android:color/black"
+        android:clickable="true"
+        android:layout_margin="15sp"
+        android:focusable="true" />
+
+</LinearLayout>

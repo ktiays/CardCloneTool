@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <ripple android:color="#4C4C4C">
+            <item>
+                <shape>
+                    <corners android:radius="25dp"/>
+                    <stroke android:width="0dp"/>
+                    <solid android:color="@color/button_color" />
+                </shape>
+            </item>
+        </ripple>
+    </item>
+</selector>
