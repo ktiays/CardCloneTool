@@ -1,5 +1,5 @@
 # CardCloneTool
-![](https://img.shields.io/badge/version-1.0-blue)![](https://img.shields.io/badge/android-7.0%2B-brightgreen)
+![](https://img.shields.io/badge/version-1.0-blue) ![](https://img.shields.io/badge/android-7.0%2B-brightgreen)
 
 用于复制可用于杭电阳光长跑的一卡通。
 
@@ -11,7 +11,8 @@
 
 此工具对于卡片的复制需要更改卡片的ID，普通的M1卡**无法修改卡片ID**，因此需要特殊的卡片。
 
-此工具选择的是较不容易被检测且价格适中的**CUID卡**。***本工具仅适用于CUID卡！***非CUID卡本工具无法写入。
+此工具选择的是较不容易被检测且价格适中的**CUID卡**。
+***本工具仅适用于CUID卡！*** 非CUID卡本工具无法写入。
 
 由于功能限制，本工具仅支持卡片容量为1K的CUID卡。
 
