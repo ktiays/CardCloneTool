@@ -30,5 +30,5 @@
 
 ---
 
-与工具相关问题可联系邮箱：ktiays@icloud.com
+与工具相关问题可联系邮箱：ktiays@outlook.com
 
