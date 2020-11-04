@@ -228,7 +228,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // 圆角对话框构造器
-    class KTBuild extends AlertDialog.Builder {
+    static class KTBuild extends AlertDialog.Builder {
 
         KTBuild(Context context) {
             super(context);
